@@ -33,6 +33,20 @@ demonstrate that convolutional neural networks outperform other methods with
 # Result 
 > The following abbreviations are used in the tables: AC: Accuracy, FM: F-measure, PR: Precision, RC: Recall, SVM: Support vector machine, RF: Random Forest, CNN: Convolutional neural network, CNN-GRU: Convolution Neural Network-Gated Recurrent Unit, CNN-LSTM: Convolutional neural network-long short-term memory, SSD: Single shot detector, Faster R-CNN: Faster recurrent-convolutional neural network, Avg: Average. The best results are obtained for each dataset in the Table 1 and Table 2 after experiments of hyperparameter tuning. The best performance results are also demonstrated in boldface in all tables. In Table 1, the performance results of all classification models according to evaluation metrics in the first dataset (DS1) are demonstrated.
 
+<p align="center">
+    <img src="https://github.com/shbkukuk/ForestFireDetection/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202021-08-06%20114109.png"> <br />
+    <em> 
+    </em>
+</p>
+
+>In Table 2, the performance results of all classification models according to evaluation metrics in the second dataset (DS2) are demonstrated.
+<p align="center">
+    <img src="https://github.com/shbkukuk/ForestFireDetection/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202021-08-06%20114143.png"> <br />
+    <em> 
+    </em>
+</p>
+
+
 
 # Packages Reqs:
 * Keras
