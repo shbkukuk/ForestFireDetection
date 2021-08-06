@@ -30,6 +30,9 @@ demonstrate that convolutional neural networks outperform other methods with
 2. Prepare Data 
 * Own data's are collected using Beatifulsoup and Web Scariping. In this Folder contains codes are  that we used 
 
+# Result 
+> The following abbreviations are used in the tables: AC: Accuracy, FM: F-measure, PR: Precision, RC: Recall, SVM: Support vector machine, RF: Random Forest, CNN: Convolutional neural network, CNN-GRU: Convolution Neural Network-Gated Recurrent Unit, CNN-LSTM: Convolutional neural network-long short-term memory, SSD: Single shot detector, Faster R-CNN: Faster recurrent-convolutional neural network, Avg: Average. The best results are obtained for each dataset in the Table 1 and Table 2 after experiments of hyperparameter tuning. The best performance results are also demonstrated in boldface in all tables. In Table 1, the performance results of all classification models according to evaluation metrics in the first dataset (DS1) are demonstrated.
+
 
 # Packages Reqs:
 * Keras
