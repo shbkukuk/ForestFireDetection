@@ -41,7 +41,7 @@ demonstrate that convolutional neural networks outperform other methods with
 
 >In Table 2, the performance results of all classification models according to evaluation metrics in the second dataset (DS2) are demonstrated.
 <p align="center">
-    <img src="https://github.com/shbkukuk/ForestFireDetection/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202021-08-06%20114143.png"> <br />
+    <img src="https://github.com/shbkukuk/ForestFireDetection/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202021-08-06%20114143.png" > <br />
     <em> 
     </em>
 </p>
